@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Simposaune-yhgao
+- 👋 Hi, I’m @Simposaune
 - 👀 I’m interested in both Data Science and Finacial Engeering 
 - 🌱 I’m currently finding the possibility of combine the two desciplinaries in my future career
 - 💞️ I’m preapre for my second M.S. degree in Data Science or Statistics Analysis
